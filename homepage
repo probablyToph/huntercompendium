@@ -1,0 +1,69 @@
+[[module CSS]]
+.tileButton {
+display: block;
+width: 23%; 
+margin-bottom: 30px; 
+background-color: #f4f4f4; 
+padding: 0px 50px 15px; 
+border-radius: 8px; 
+text-align: center;
+color: black;
+}
+ 
+.tileIcon {
+max-width: 100px; 
+max-height: 100px;
+margin: 0 auto 10px auto;"
+}
+ 
+[[/module]]
+
+[[div style="padding:40px; display: flex; flex-wrap: wrap; justify-content: space-between;"]]
+
+
+[[a class="tileButton" href="weapons"]]
+[[image https://i.imgur.com/pwEwovP.png class="tileIcon"]]
+**Weapons**
+Every weapon, their move list with MVs, specific weapon info and augments.
+[[/a]]
+
+[[a class="tileButton" href="monsters"]]
+[[image https://cdn.discordapp.com/attachments/444641811353567245/1212178195319750726/nerbi.png?ex=65f0e3ea&is=65de6eea&hm=ef10e205ccd4dd86f77281d477575c9975a0166d1653183f428c8f225ef894ee& class="tileIcon"]]
+**Monsters**
+Every monster with detailed stats and rewards, as well as endemic life info.
+[[/a]]
+
+[[a class="tileButton" href="quests"]]
+[[image https://cdn.discordapp.com/attachments/444641811353567245/1212180482306080778/image.png?ex=65f0e60c&is=65de710c&hm=937a059356e07f04d4fa897cf103900f670adc4495ba6060746e44187a29757a& class="tileIcon"]]
+**Quests**
+Every quest including rewards, special conditions, crown chances, as well as Guiding Lands info, deliveries and bounties.
+[[/a]]
+
+[[a class="tileButton" href="effects"]]
+[[image https://cdn.discordapp.com/attachments/874769297656918077/1213133485221355541/skills.png?ex=65f45d99&is=65e1e899&hm=c727aee14a89ed43d657eaa8645c48b2bb788de7d85f439fc549d8d3324c2396& class="tileIcon"]]
+**Skills & Effects**
+Every available skill, as well as effects like blights.
+[[/a]]
+
+[[a class="tileButton" href="equipment"]]
+[[image https://cdn.discordapp.com/attachments/874769297656918077/1212823983083356191/latest.png?ex=65f33d5a&is=65e0c85a&hm=fbcaa6df7a4c6815eaeea246f62ecc4f91b30df532e2beec0812a1c222004917& class="tileIcon"]]
+**Equipment**
+Every armor piece, decoration, charm, mantle, pendant and palico gear.[[/a]]
+
+
+[[a class="tileButton" href="damage"]]
+[[image https://cdn.discordapp.com/attachments/874769297656918077/1212857220472242206/dodobonk_2.png?ex=65f35c4f&is=65e0e74f&hm=daf6ac17ea8ed28891beaa4fec21a289b27eaedd1853d966539ee93accd2677a& class="tileIcon"]]
+**Damage Calculation**
+An interactive damage calculator, as well as lists of every source of attack, element and other damage.[[/a]]
+
+[[a class="tileButton" href="items"]]
+[[image https://cdn.discordapp.com/attachments/874769297656918077/1212828935138582590/image.png?ex=65f341f7&is=65e0ccf7&hm=d52a8d547867398aa16df6f9ffc6ee9a6de55c059d28c45a0375ac78af167d83& class="tileIcon"]]
+**Items**
+Every item, its sources and detailed effects, as well as a list of shops and tailraider safari rewards.[[/a]]
+
+[[a class="tileButton" href="food"]]
+[[image https://cdn.discordapp.com/attachments/874769297656918077/1212831345240444968/image.png?ex=65f34436&is=65e0cf36&hm=d5dd307a3c9264a90a518d875f683b508bc8a8ec7702a489298769ef5cf913f3& class="tileIcon" style="max-width:200px;"]]
+**Food**
+Every Canteen Ingredient and where to find it, as well as info on food skills.[[/a]]
+
+[[/div]]
